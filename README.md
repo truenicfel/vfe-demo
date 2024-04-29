@@ -30,7 +30,7 @@ cmake-- build .
 ## Run
 
 Execute the `EarthMantle` executable or the `Ocean` executable like this while supplying 
-earthMantle.vti, ocean.vti and/or oceanSeeds.vtp which are contained within this folder.
+earthMantle.vti, ocean.vti and/or oceanSeeds.vtp which can be found in the supplementary material of our paper.
 When running you might encounter an error message that certain VTK libraries were not
 found. You need to make them available to your executable by adding their path to your
 environment.
