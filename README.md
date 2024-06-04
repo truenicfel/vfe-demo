@@ -1,5 +1,7 @@
 # Variational Feature Extraction Demo
 
+![representative-image](https://github.com/truenicfel/vfe-demo/assets/22738910/016eea43-bef3-4b9b-bee5-5b856df5cb54)
+
 ## About
 
 This demo contains an isoline extraction on the earth mantle dataset and a critical
